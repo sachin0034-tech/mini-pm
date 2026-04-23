@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "displayName": "Mini PM",
   "description": "50 advanced skills for product managers — PRDs, OKRs, roadmaps, RICE scoring, A/B tests, AI product specs, user research, stakeholder comms, and more. Includes scheduled standups, competitor monitoring loops, and daily metrics checks.",
-  "author": "sachin0034-tech",
+  "author": {
+    "name": "Sachin Yadav"
+  },
   "homepage": "https://github.com/sachin0034-tech/mini-pm",
   "license": "MIT",
   "category": "productivity",

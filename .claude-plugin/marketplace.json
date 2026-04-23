@@ -1,15 +1,13 @@
 {
-  "name": "mini-pm-marketplace",
-  "description": "50 AI-powered PM skills for Claude Cowork",
-  "author": "sachin0034-tech",
-  "homepage": "https://github.com/sachin0034-tech/mini-pm",
+  "name": "mini-pm",
+  "owner": {
+    "name": "Mahesh Yadav"
+  },
   "plugins": [
     {
       "name": "mini-pm",
-      "source": "github:sachin0034-tech/mini-pm",
-      "description": "50 advanced skills for product managers — PRDs, OKRs, roadmaps, RICE scoring, A/B tests, AI product specs, user research, and more.",
-      "category": "productivity",
-      "tags": ["pm", "product-management", "planning", "agile", "roadmap", "okr", "metrics"]
+      "source": "./",
+      "description": "50 advanced skills for product managers — PRDs, OKRs, roadmaps, RICE scoring, A/B tests, AI product specs, user research, and more."
     }
   ]
 }
