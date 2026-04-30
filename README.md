@@ -66,7 +66,8 @@ Every skill accepts free-text input and returns structured, senior-quality outpu
 ```
 mini-pm/
 ├── .claude-plugin/
-│   └── plugin.json          ← plugin manifest
+│   ├── plugin.json          ← plugin manifest
+│   └── marketplace.json     ← marketplace index
 ├── skills/
 │   ├── prd/SKILL.md
 │   ├── prd-review/SKILL.md
@@ -74,7 +75,6 @@ mini-pm/
 │   ├── user-research/SKILL.md
 │   ├── job-strategy/SKILL.md
 │   └── resume-builder/SKILL.md
-├── marketplace.json         ← marketplace index
 ├── assets/banner.png
 └── README.md
 ```
