@@ -1,6 +1,6 @@
 # Mini PM
 
-**6 AI-powered skills for product managers, built as a Claude plugin.**
+**AI-powered skills for product managers, built as a Claude plugin.**
 
 ![banner](./assets/banner.png)
 
